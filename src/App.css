@@ -28,11 +28,25 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* footer always come bottom */
+.flex-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+}
+/* img size */
+.iconimg{
+width: 150px;
+height: 150px;
+margin: auto;
+}
+.rating{
+  font-size: 8px;
+  color: #f83600;
+  letter-spacing: 3px;
+}
+.thanks-img{
+  width: 800px;
+  margin: auto;
 }

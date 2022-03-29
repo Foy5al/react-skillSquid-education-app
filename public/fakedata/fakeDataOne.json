@@ -1,0 +1,20 @@
+[
+	{
+		"_id": 1,
+		"title": "Get a certificate",
+		"details": "You will get a certificate after complete the course ",
+		"icon": "https://img.icons8.com/external-justicon-flat-justicon/344/external-certificate-reward-and-badges-justicon-flat-justicon-2.png"
+	},
+	{
+		"_id": 2,
+		"title": "All over the globe",
+		"details": "You can access our course all over the globe with your internet connection ",
+		"icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-globe-press-and-media-flaticons-lineal-color-flat-icons.png"
+	},
+	{
+		"_id": 3,
+		"title": "Live online lectures",
+		"details": "Live online class and interactive video for better learning experience with recorded class option",
+		"icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-lecture-live-streaming-flaticons-lineal-color-flat-icons-2.png"
+	}
+]

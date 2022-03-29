@@ -1,0 +1,130 @@
+{
+	"courses": [
+		{
+			"_id": 1,
+			"title": "Software Engineering Fundamentals",
+			"rating": 4,
+			"courseDetails": "Including requirements elicitation, analysis and specification; design; construction; verification and validation; deployment; and operation and maintenance. data modelling. software engineering methodologies, processes, measurements, tools and techniques.",
+			"instractor": {
+				"name": "Mohammd Foysal",
+				"img": "https://avatars.githubusercontent.com/u/77278709?v=4",
+				"designation": "Developer"
+			},
+			"icon": "https://ouch-cdn2.icons8.com/nhL1vJfQXaofi3NbQdLbqk6DI1KVibXvchef-eDUpsQ/rs:fit:256:215/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjIv/ZWY4M2QxMTQtYzA2/Ni00NzgzLWE2MTUt/YzVkMDNjNTUzZDU5/LnN2Zw.png",
+			"price": {
+				"full": 100,
+				"monthly": 15
+			},
+			"lecture": 48,
+			"hours": 280
+		},
+		{
+			"_id": 2,
+			"title": "Introduction to JavaScript and React",
+			"rating": 5,
+			"courseDetails": "Learn to create basic web pages using HTML5 Learn to style and add animations to bring those basic web pages to life using CSS3 Learn the Javascript language from basic to advanced along with the Next Gen JS - ES6 Learn to create responsive and interactive web pages using Javascript and jQuery Create user-friendly, beautiful, light and fast websites using React JS Become an expert front end developer using ReactJs",
+			"instractor": {
+				"name": "Mohammd Foysal",
+				"img": "https://avatars.githubusercontent.com/u/77278709?v=4",
+				"designation": "Developer"
+			},
+			"icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-javascript-mobile-app-development-flaticons-lineal-color-flat-icons-3.png",
+			"price": {
+				"full": 120,
+				"monthly": 20
+			},
+			"lecture": 70,
+			"hours": 350
+		},
+		{
+			"_id": 3,
+			"title": "Introduction to PHP",
+			"rating": 4,
+			"courseDetails": "This course is designed to give you the foundation for becoming a productive PHP developer in a LAMP environment. You will learn the syntax of PHP and the simplicities of form processing, including functions, arrays, classes, operators, database integration, and more.",
+			"instractor": {
+				"name": "Mushfique Ifad",
+				"img": "https://avatars.githubusercontent.com/u/92722825?v=4",
+				"designation": "Programmer"
+			},
+			"icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-php-code-mobile-app-development-flaticons-lineal-color-flat-icons.png",
+			"price": {
+				"full": 110,
+				"monthly": 20
+			},
+			"lecture": 60,
+			"hours": 290
+		},
+		{
+			"_id": 4,
+			"title": "Introduction to IOT",
+			"rating": 5,
+			"courseDetails": "Learn how the current digital transformation is creating unprecedented economic opportunity. Understand how the IoT is bridging the gap between operational and information technology systems. Discover how standard business processes are being transformed. The security concerns that must be considered when implementing IoT solutions.",
+			"instractor": {
+				"name": "Shahariar Raghib",
+				"img": "https://avatars.githubusercontent.com/u/58640846?v=4",
+				"designation": "Machine Learning Expert"
+			},
+			"icon": "https://img.icons8.com/external-soft-fill-juicy-fish/344/external-iot-internet-of-things-soft-fill-soft-fill-juicy-fish.png",
+			"price": {
+				"full": 100,
+				"monthly": 15
+			},
+			"lecture": 40,
+			"hours": 250
+		},
+		{
+			"_id": 5,
+			"title": "Responsive Website : Code with HTML, CSS, JS",
+			"rating": 4.5,
+			"courseDetails": "In this HTML and CSS tutorial, we will learn how to create a responsive site from scratch by prototyping directly in the browser. Weill start with some boilerplate code and build on it with responsive images, videos, icons, maps, videos and off-canvas menus. By the end of this HTML and CSS training, you will understand the in-browser responsive design creation process, from planning, to wireframing and prototyping, to the final product.",
+			"instractor": {
+				"name": "Shahariar Raghib",
+				"img": "https://avatars.githubusercontent.com/u/58640846?v=4",
+				"designation": "Machine Learning Expert"
+			},
+			"icon": "https://img.icons8.com/external-itim2101-flat-itim2101/344/external-coding-computer-technology-itim2101-flat-itim2101.png",
+			"price": {
+				"full": 100,
+				"monthly": 15
+			},
+			"lecture": 40,
+			"hours": 250
+		},
+		{
+			"_id": 6,
+			"title": "CCNA and Networking",
+			"rating": 5,
+			"courseDetails": "In this course, Introduction to Networking for Cisco CCNA 200-125/100-105, you will examine how basic human communication, like talking in person or on the phone, contains the same fundamental concepts used in moving data across a network. First, you will learn how to examine communication, and determine how to dissect it into components so it can be individually categorized and described. Next, you will learn how to break down communication into components, which will be of great benefit when understanding data networking, as there are many simple protocols which interact in complex ways.To accomplish this you will learn the TCP/IP and OSI models of networking, encapsulation, addressing, as well as what is called chunks of information at different points in the communication process.Finally you'll learn about the history and the birth of high speed data communications. By the end of this course, you'll know the OSI Model, TCP/IP Model, and you'll have an understanding of what encapsulation is as it relates to data networking as well as what you need to know for CCNA 200-125 vs 100-105.",
+			"instractor": {
+				"name": "Mohammd Foysal",
+				"img": "https://avatars.githubusercontent.com/u/77278709?v=4",
+				"designation": "Developer"
+			},
+			"icon": "https://img.icons8.com/external-flatart-icons-flat-flatarticons/344/external-networking-web-hosting-flatart-icons-flat-flatarticons.png",
+			"price": {
+				"full": 120,
+				"monthly": 18
+			},
+			"lecture": 55,
+			"hours": 290
+		},
+		{
+			"_id": 7,
+			"title": "Graphics Design",
+			"rating": 5,
+			"courseDetails": "Graphic design training courses will open up the world of digital graphic design and help you expand your skillset. Learn from creative professionals who gladly share their tips, techniques and workflows in some of the most widely used graphic design programs including Photoshop, Illustrator, InDesign, Muse and more. View our library of graphic design tutorials and start on your learning path today.",
+			"instractor": {
+				"name": "Mohammd Foysal",
+				"img": "https://avatars.githubusercontent.com/u/77278709?v=4",
+				"designation": "Developer"
+			},
+			"icon": "https://img.icons8.com/external-wanicon-flat-wanicon/344/external-graphic-design-design-thinking-wanicon-flat-wanicon-1.png",
+			"price": {
+				"full": 120,
+				"monthly": 18
+			},
+			"lecture": 55,
+			"hours": 290
+		}
+	]
+}
